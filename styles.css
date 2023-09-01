@@ -8,7 +8,7 @@
 .header {
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.24),rgba(0,0,0,10)), url(/images/background.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.24),rgba(0,0,0,10)), url(https://th.bing.com/th/id/OIP.VgAVUBFkMEAbMO9PWmSbvQHaEn?pid=ImgDet&rs=1);
     box-shadow: 0 0 30px black;
     background-size: cover;
     background-position: center;
